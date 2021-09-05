@@ -1,2 +1,3 @@
 print('My new rating')
-print('Another comment was added')
+print('fourth version of comment feature was added')
+print('Another version of comment feature was added')
