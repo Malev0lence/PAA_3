@@ -1,2 +1,2 @@
 print('My new rating')
-print('Comment was added')
+print('Another comment was added')
